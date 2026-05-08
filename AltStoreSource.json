@@ -25,9 +25,9 @@
             ],
             "versions": [
                 {
-                    "version": "3.24.8291817",
-                    "buildVersion": "5432",
-                    "date": "2025-1-11",
+                    "version": "3.38.8291817",
+                    "buildVersion": "5554",
+                    "date": "2026-5-8",
                     "size": 40303128,
                     "downloadURL": "https://zchan.app/download/ios/iChan.ipa"
                 }
@@ -59,8 +59,8 @@
             ],
             "versions": [
                 {
-                    "version": "3.24.8291817",
-                    "buildVersion": "5432",
+                    "version": "3.38.8291817",
+                    "buildVersion": "5558",
                     "date": "2025-1-11",
                     "size": 40303128,
                     "downloadURL": "https://zchan.app/download/ios/alpha/iChan.ipa"
