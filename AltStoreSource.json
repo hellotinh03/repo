@@ -46,7 +46,7 @@
         },
         {
             "name": "iChan Alpha",
-            "bundleIdentifier": "com.astafievalpha.app",
+            "bundleIdentifier": "com.astafiev.app",
             "developerName": "Zchandev",
             "subtitle": "(Alpha Version) Open source imageboard browser for 4chan and 2ch",
             "localizedDescription": "(Alpha Version) Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk",
